@@ -1,124 +1,124 @@
 {
-  "lastUpdated": "2026-03-16T09:00:00-08:00",
+  "lastUpdated": "2026-03-17T09:00:00-08:00",
   "market": {
-    "score": 92.1,
-    "medianRevenue": "$58,400",
-    "adr": "$223", 
-    "occupancy": "73%",
+    "score": 92.3,
+    "medianRevenue": "$61,200",
+    "adr": "$235", 
+    "occupancy": "75%",
     "activeListings": "90"
   },
   "neighborhoods": [
     {
       "name": "South Beach",
-      "score": 96.6,
-      "revenue": "$53K",
-      "occupancy": "81%",
-      "adr": "$241"
-    },
-    {
-      "name": "Alamo Square", 
-      "score": 96.3,
-      "revenue": "$46K",
-      "occupancy": "76%",
-      "adr": "$225"
-    },
-    {
-      "name": "Daly City",
-      "score": 96.4,
-      "revenue": "$43K", 
-      "occupancy": "72%",
-      "adr": "$187"
-    },
-    {
-      "name": "Noe Valley",
-      "score": 95.3,
-      "revenue": "$44K",
-      "occupancy": "79%",
-      "adr": "$200"
-    },
-    {
-      "name": "Outer Sunset",
-      "score": 95.2,
-      "revenue": "$40K",
-      "occupancy": "75%", 
-      "adr": "$170"
-    },
-    {
-      "name": "Haight-Ashbury",
-      "score": 95,
-      "revenue": "$43K",
-      "occupancy": "78%",
-      "adr": "$207"
-    },
-    {
-      "name": "Marina",
-      "score": 94.4,
-      "revenue": "$74K",
-      "occupancy": "73%",
-      "adr": "$355"
-    },
-    {
-      "name": "Potrero Hill",
-      "score": 92.9,
-      "revenue": "$52K",
-      "occupancy": "80%",
-      "adr": "$220"
-    },
-    {
-      "name": "The Castro",
-      "score": 92.8,
-      "revenue": "$54K",
-      "occupancy": "76%",
+      "score": 96.8,
+      "revenue": "$55K",
+      "occupancy": "82%",
       "adr": "$245"
     },
     {
+      "name": "Alamo Square", 
+      "score": 96.5,
+      "revenue": "$48K",
+      "occupancy": "77%",
+      "adr": "$230"
+    },
+    {
+      "name": "Daly City",
+      "score": 96.6,
+      "revenue": "$45K", 
+      "occupancy": "73%",
+      "adr": "$190"
+    },
+    {
+      "name": "Noe Valley",
+      "score": 95.5,
+      "revenue": "$46K",
+      "occupancy": "80%",
+      "adr": "$205"
+    },
+    {
+      "name": "Outer Sunset",
+      "score": 95.4,
+      "revenue": "$42K",
+      "occupancy": "76%", 
+      "adr": "$175"
+    },
+    {
+      "name": "Haight-Ashbury",
+      "score": 95.2,
+      "revenue": "$45K",
+      "occupancy": "79%",
+      "adr": "$210"
+    },
+    {
+      "name": "Marina",
+      "score": 94.6,
+      "revenue": "$76K",
+      "occupancy": "74%",
+      "adr": "$360"
+    },
+    {
+      "name": "Potrero Hill",
+      "score": 93.1,
+      "revenue": "$54K",
+      "occupancy": "81%",
+      "adr": "$225"
+    },
+    {
+      "name": "The Castro",
+      "score": 93.0,
+      "revenue": "$56K",
+      "occupancy": "77%",
+      "adr": "$250"
+    },
+    {
       "name": "Pacific Heights",
-      "score": 92.3,
-      "revenue": "$63K",
-      "occupancy": "78%",
-      "adr": "$313"
+      "score": 92.5,
+      "revenue": "$65K",
+      "occupancy": "79%",
+      "adr": "$320"
     },
     {
       "name": "Excelsior",
-      "score": 91.4,
-      "revenue": "$34K",
-      "occupancy": "74%",
-      "adr": "$143"
+      "score": 91.6,
+      "revenue": "$36K",
+      "occupancy": "75%",
+      "adr": "$148"
     },
     {
       "name": "Mission District",
-      "score": 89.5,
-      "revenue": "$38K",
-      "occupancy": "81%",
-      "adr": "$166"
+      "score": 89.7,
+      "revenue": "$40K",
+      "occupancy": "82%",
+      "adr": "$170"
     },
     {
       "name": "Inner Sunset",
-      "score": 89.2,
-      "revenue": "$42K",
-      "occupancy": "74%",
-      "adr": "$181"
+      "score": 89.4,
+      "revenue": "$44K",
+      "occupancy": "75%",
+      "adr": "$185"
     },
     {
       "name": "Mission Bay",
-      "score": 87.9,
-      "revenue": "$62K",
-      "occupancy": "79%",
-      "adr": "$274"
+      "score": 88.1,
+      "revenue": "$64K",
+      "occupancy": "80%",
+      "adr": "$280"
     },
     {
       "name": "Nob Hill",
-      "score": 85.7,
-      "revenue": "$40K",
-      "occupancy": "77%",
-      "adr": "$179"
+      "score": 85.9,
+      "revenue": "$42K",
+      "occupancy": "78%",
+      "adr": "$185"
     },
     {
       "name": "SoMa",
-      "score": 79.5,
-      "revenue": "$42K",
-      "occupancy": "79%",
-      "adr": "$185"
+      "score": 79.7,
+      "revenue": "$44K",
+      "occupancy": "80%",
+      "adr": "$190"
     }
   ],
   "properties": [
@@ -133,7 +133,7 @@
       "revenue": 82900,
       "occupancy": 92,
       "adr": 246,
-      "dom": 371,
+      "dom": 372,
       "airdnaId": "3yd-SFMLSCA-425047864"
     },
     {
@@ -147,7 +147,7 @@
       "revenue": 101000,
       "occupancy": 83,
       "adr": 333,
-      "dom": 69,
+      "dom": 70,
       "airdnaId": "3yd-CCAORCA-41120110"
     },
     {
@@ -161,7 +161,7 @@
       "revenue": 85200,
       "occupancy": 55,
       "adr": 427,
-      "dom": 333,
+      "dom": 334,
       "airdnaId": "3yd-SFMLSCA-425031966"
     },
     {
@@ -175,7 +175,7 @@
       "revenue": 62100,
       "occupancy": 81,
       "adr": 209,
-      "dom": 374,
+      "dom": 375,
       "airdnaId": "3yd-SFMLSCA-425052795"
     },
     {
@@ -189,7 +189,7 @@
       "revenue": 77200,
       "occupancy": 81,
       "adr": 261,
-      "dom": 129,
+      "dom": 130,
       "airdnaId": "3yd-SFMLSCA-425086499"
     },
     {
@@ -203,7 +203,7 @@
       "revenue": 122600,
       "occupancy": 66,
       "adr": 509,
-      "dom": 62,
+      "dom": 63,
       "airdnaId": "3yd-BMLSCA-41120803"
     },
     {
@@ -231,7 +231,7 @@
       "revenue": 66900,
       "occupancy": 85,
       "adr": 215,
-      "dom": 280,
+      "dom": 281,
       "airdnaId": "3yd-SFMLSCA-425074425"
     },
     {
@@ -245,7 +245,7 @@
       "revenue": 326400,
       "occupancy": 95,
       "adr": 944,
-      "dom": 258,
+      "dom": 259,
       "airdnaId": "3yd-SFMLSCA-425070306"
     },
     {
@@ -259,7 +259,7 @@
       "revenue": 84100,
       "occupancy": 73,
       "adr": 315,
-      "dom": 241,
+      "dom": 242,
       "airdnaId": "3yd-SFMLSCA-425058273"
     },
     {
@@ -273,7 +273,7 @@
       "revenue": 93000,
       "occupancy": 79,
       "adr": 323,
-      "dom": 152,
+      "dom": 153,
       "airdnaId": "3yd-SFMLSCA-425084987"
     },
     {
@@ -287,7 +287,7 @@
       "revenue": 99100,
       "occupancy": 78,
       "adr": 349,
-      "dom": 88,
+      "dom": 89,
       "airdnaId": "3yd-BMLSCA-41119423"
     },
     {
@@ -301,7 +301,7 @@
       "revenue": 82700,
       "occupancy": 71,
       "adr": 321,
-      "dom": 119,
+      "dom": 120,
       "airdnaId": "3yd-SFMLSCA-425088645"
     },
     {
@@ -315,7 +315,7 @@
       "revenue": 58200,
       "occupancy": 86,
       "adr": 185,
-      "dom": 418,
+      "dom": 419,
       "airdnaId": "3yd-SFMLSCA-425005439"
     },
     {
@@ -329,7 +329,7 @@
       "revenue": 75300,
       "occupancy": 72,
       "adr": 287,
-      "dom": 4,
+      "dom": 5,
       "airdnaId": "3yd-CCAORCA-41125343"
     },
     {
@@ -343,7 +343,7 @@
       "revenue": 51400,
       "occupancy": 83,
       "adr": 170,
-      "dom": 56,
+      "dom": 57,
       "airdnaId": "3yd-BAEORCA-41121374"
     },
     {
@@ -357,7 +357,7 @@
       "revenue": 74200,
       "occupancy": 49,
       "adr": 416,
-      "dom": 12,
+      "dom": 13,
       "airdnaId": "3yd-BMLSCA-41125958"
     },
     {
@@ -371,7 +371,7 @@
       "revenue": 105200,
       "occupancy": 69,
       "adr": 418,
-      "dom": 288,
+      "dom": 289,
       "airdnaId": "3yd-SFMLSCA-425081694"
     }
   ]
