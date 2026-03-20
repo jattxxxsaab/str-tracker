@@ -1,10 +1,10 @@
 {
-  "lastUpdated": "2026-03-18T09:00:00-08:00",
+  "lastUpdated": "2026-03-20T09:00:00-08:00",
   "market": {
     "score": 92.0,
-    "medianRevenue": "$83,000",
-    "adr": "$350", 
-    "occupancy": "77%",
+    "medianRevenue": "$85,000",
+    "adr": "$345", 
+    "occupancy": "78%",
     "activeListings": "89"
   },
   "neighborhoods": [
@@ -133,7 +133,7 @@
       "revenue": 82900,
       "occupancy": 92,
       "adr": 246,
-      "dom": 373,
+      "dom": 375,
       "airdnaId": "3yd-SFMLSCA-425047864"
     },
     {
@@ -147,7 +147,7 @@
       "revenue": 101000,
       "occupancy": 83,
       "adr": 333,
-      "dom": 71,
+      "dom": 73,
       "airdnaId": "3yd-CCAORCA-41120110"
     },
     {
@@ -161,7 +161,7 @@
       "revenue": 85200,
       "occupancy": 55,
       "adr": 427,
-      "dom": 335,
+      "dom": 337,
       "airdnaId": "3yd-SFMLSCA-425031966"
     },
     {
@@ -175,7 +175,7 @@
       "revenue": 62100,
       "occupancy": 81,
       "adr": 209,
-      "dom": 376,
+      "dom": 378,
       "airdnaId": "3yd-SFMLSCA-425052795"
     },
     {
@@ -189,7 +189,7 @@
       "revenue": 77200,
       "occupancy": 81,
       "adr": 261,
-      "dom": 131,
+      "dom": 133,
       "airdnaId": "3yd-SFMLSCA-425086499"
     },
     {
@@ -203,7 +203,7 @@
       "revenue": 122600,
       "occupancy": 66,
       "adr": 509,
-      "dom": 64,
+      "dom": 66,
       "airdnaId": "3yd-BMLSCA-41120803"
     },
     {
@@ -231,7 +231,7 @@
       "revenue": 66900,
       "occupancy": 85,
       "adr": 215,
-      "dom": 282,
+      "dom": 284,
       "airdnaId": "3yd-SFMLSCA-425074425"
     },
     {
@@ -245,7 +245,7 @@
       "revenue": 326400,
       "occupancy": 95,
       "adr": 944,
-      "dom": 260,
+      "dom": 262,
       "airdnaId": "3yd-SFMLSCA-425070306"
     },
     {
@@ -259,7 +259,7 @@
       "revenue": 84100,
       "occupancy": 73,
       "adr": 315,
-      "dom": 243,
+      "dom": 245,
       "airdnaId": "3yd-SFMLSCA-425058273"
     },
     {
@@ -273,7 +273,7 @@
       "revenue": 93000,
       "occupancy": 79,
       "adr": 323,
-      "dom": 154,
+      "dom": 156,
       "airdnaId": "3yd-SFMLSCA-425084987"
     },
     {
@@ -287,7 +287,7 @@
       "revenue": 99100,
       "occupancy": 78,
       "adr": 349,
-      "dom": 90,
+      "dom": 92,
       "airdnaId": "3yd-BMLSCA-41119423"
     },
     {
@@ -301,7 +301,7 @@
       "revenue": 82700,
       "occupancy": 71,
       "adr": 321,
-      "dom": 121,
+      "dom": 123,
       "airdnaId": "3yd-SFMLSCA-425088645"
     },
     {
@@ -315,7 +315,7 @@
       "revenue": 58200,
       "occupancy": 86,
       "adr": 185,
-      "dom": 420,
+      "dom": 422,
       "airdnaId": "3yd-SFMLSCA-425005439"
     },
     {
@@ -329,7 +329,7 @@
       "revenue": 75300,
       "occupancy": 72,
       "adr": 287,
-      "dom": 6,
+      "dom": 8,
       "airdnaId": "3yd-CCAORCA-41125343"
     },
     {
@@ -343,7 +343,7 @@
       "revenue": 51400,
       "occupancy": 83,
       "adr": 170,
-      "dom": 58,
+      "dom": 60,
       "airdnaId": "3yd-BAEORCA-41121374"
     },
     {
@@ -357,7 +357,7 @@
       "revenue": 74200,
       "occupancy": 49,
       "adr": 416,
-      "dom": 14,
+      "dom": 16,
       "airdnaId": "3yd-BMLSCA-41125958"
     },
     {
@@ -371,7 +371,7 @@
       "revenue": 105200,
       "occupancy": 69,
       "adr": 418,
-      "dom": 290,
+      "dom": 292,
       "airdnaId": "3yd-SFMLSCA-425081694"
     }
   ]
