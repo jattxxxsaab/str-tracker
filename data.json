@@ -1,126 +1,7 @@
 {
-  "lastUpdated": "2026-03-21T09:00:00-08:00",
-  "market": {
-    "score": 92.0,
-    "medianRevenue": "$85,000",
-    "adr": "$345", 
-    "occupancy": "78%",
-    "activeListings": "89"
-  },
-  "neighborhoods": [
-    {
-      "name": "South Beach",
-      "score": 97.0,
-      "revenue": "$83K",
-      "occupancy": "92%",
-      "adr": "$246"
-    },
-    {
-      "name": "Alamo Square", 
-      "score": 96.0,
-      "revenue": "$48K",
-      "occupancy": "77%",
-      "adr": "$230"
-    },
-    {
-      "name": "Daly City",
-      "score": 96.0,
-      "revenue": "$123K", 
-      "occupancy": "66%",
-      "adr": "$509"
-    },
-    {
-      "name": "Noe Valley",
-      "score": 95.0,
-      "revenue": "$46K",
-      "occupancy": "80%",
-      "adr": "$205"
-    },
-    {
-      "name": "Outer Sunset",
-      "score": 95.0,
-      "revenue": "$62K",
-      "occupancy": "81%", 
-      "adr": "$209"
-    },
-    {
-      "name": "Haight-Ashbury",
-      "score": 95.0,
-      "revenue": "$45K",
-      "occupancy": "79%",
-      "adr": "$210"
-    },
-    {
-      "name": "Marina",
-      "score": 94.0,
-      "revenue": "$76K",
-      "occupancy": "74%",
-      "adr": "$360"
-    },
-    {
-      "name": "Potrero Hill",
-      "score": 93.0,
-      "revenue": "$54K",
-      "occupancy": "81%",
-      "adr": "$225"
-    },
-    {
-      "name": "The Castro",
-      "score": 93.0,
-      "revenue": "$56K",
-      "occupancy": "77%",
-      "adr": "$250"
-    },
-    {
-      "name": "Pacific Heights",
-      "score": 92.0,
-      "revenue": "$65K",
-      "occupancy": "79%",
-      "adr": "$320"
-    },
-    {
-      "name": "Excelsior",
-      "score": 91.0,
-      "revenue": "$84K",
-      "occupancy": "63%",
-      "adr": "$374"
-    },
-    {
-      "name": "Mission District",
-      "score": 89.0,
-      "revenue": "$40K",
-      "occupancy": "82%",
-      "adr": "$170"
-    },
-    {
-      "name": "Inner Sunset",
-      "score": 89.0,
-      "revenue": "$44K",
-      "occupancy": "75%",
-      "adr": "$185"
-    },
-    {
-      "name": "Mission Bay",
-      "score": 88.0,
-      "revenue": "$64K",
-      "occupancy": "80%",
-      "adr": "$280"
-    },
-    {
-      "name": "Nob Hill",
-      "score": 85.0,
-      "revenue": "$76K",
-      "occupancy": "83%",
-      "adr": "$254"
-    },
-    {
-      "name": "SoMa",
-      "score": 80.0,
-      "revenue": "$197K",
-      "occupancy": "90%",
-      "adr": "$580"
-    }
-  ],
+  "lastUpdated": "2026-03-23T16:00:00Z",
+  "market": "San Francisco",
+  "totalProperties": 89,
   "properties": [
     {
       "address": "19 Blair Terrace San Francisco, CA 94107",
@@ -133,8 +14,7 @@
       "revenue": 82900,
       "occupancy": 92,
       "adr": 246,
-      "dom": 376,
-      "airdnaId": "3yd-SFMLSCA-425047864"
+      "daysOnMarket": 378
     },
     {
       "address": "155 Headlands Ct Sausalito, CA 94965",
@@ -147,12 +27,11 @@
       "revenue": 101000,
       "occupancy": 83,
       "adr": 333,
-      "dom": 74,
-      "airdnaId": "3yd-CCAORCA-41120110"
+      "daysOnMarket": 76
     },
     {
       "address": "134 Albatross Court San Francisco, CA 94124",
-      "neighborhood": "Bayview",
+      "neighborhood": "Visitacion Valley",
       "price": 695000,
       "beds": 4,
       "baths": 3,
@@ -161,8 +40,7 @@
       "revenue": 85200,
       "occupancy": 55,
       "adr": 427,
-      "dom": 338,
-      "airdnaId": "3yd-SFMLSCA-425031966"
+      "daysOnMarket": 340
     },
     {
       "address": "1220 La Playa Street unit: 208 208, San Francisco, CA 94122",
@@ -175,8 +53,7 @@
       "revenue": 62100,
       "occupancy": 81,
       "adr": 209,
-      "dom": 379,
-      "airdnaId": "3yd-SFMLSCA-425052795"
+      "daysOnMarket": 381
     },
     {
       "address": "5007 Palmetto Avenue unit: 37 37, Pacifica, CA 94044",
@@ -189,8 +66,7 @@
       "revenue": 77200,
       "occupancy": 81,
       "adr": 261,
-      "dom": 134,
-      "airdnaId": "3yd-SFMLSCA-425086499"
+      "daysOnMarket": 136
     },
     {
       "address": "1119 Hanover St Daly City, CA 94014",
@@ -203,8 +79,7 @@
       "revenue": 122600,
       "occupancy": 66,
       "adr": 509,
-      "dom": 67,
-      "airdnaId": "3yd-BMLSCA-41120803"
+      "daysOnMarket": 69
     },
     {
       "address": "189 Kent Rd Pacifica, CA 94044",
@@ -217,12 +92,11 @@
       "revenue": 148700,
       "occupancy": 59,
       "adr": 695,
-      "dom": null,
-      "airdnaId": "3yd-MLSLCA-ML81950447"
+      "daysOnMarket": null
     },
     {
       "address": "601 Van Ness Avenue unit: 67 67, San Francisco, CA 94102",
-      "neighborhood": "Civic Center", 
+      "neighborhood": "Civic Center",
       "price": 675000,
       "beds": 2,
       "baths": 2,
@@ -231,8 +105,7 @@
       "revenue": 66900,
       "occupancy": 85,
       "adr": 215,
-      "dom": 285,
-      "airdnaId": "3yd-SFMLSCA-425074425"
+      "daysOnMarket": 287
     },
     {
       "address": "765 Market Street unit: 27D 27D, San Francisco, CA 94103",
@@ -245,8 +118,7 @@
       "revenue": 326400,
       "occupancy": 95,
       "adr": 944,
-      "dom": 263,
-      "airdnaId": "3yd-SFMLSCA-425070306"
+      "daysOnMarket": 265
     },
     {
       "address": "340 Vallejo Drive unit: 71 71, Millbrae, CA 94030",
@@ -259,8 +131,7 @@
       "revenue": 84100,
       "occupancy": 73,
       "adr": 315,
-      "dom": 246,
-      "airdnaId": "3yd-SFMLSCA-425058273"
+      "daysOnMarket": 248
     },
     {
       "address": "66 Cleary Court unit: 508 508, San Francisco, CA 94109",
@@ -273,8 +144,7 @@
       "revenue": 93000,
       "occupancy": 79,
       "adr": 323,
-      "dom": 157,
-      "airdnaId": "3yd-SFMLSCA-425084987"
+      "daysOnMarket": 159
     },
     {
       "address": "59 San Jose Ave Pacifica, CA 94044",
@@ -287,8 +157,7 @@
       "revenue": 99100,
       "occupancy": 78,
       "adr": 349,
-      "dom": 93,
-      "airdnaId": "3yd-BMLSCA-41119423"
+      "daysOnMarket": 95
     },
     {
       "address": "679 Mangels Avenue San Francisco, CA 94127",
@@ -301,8 +170,7 @@
       "revenue": 82700,
       "occupancy": 71,
       "adr": 321,
-      "dom": 124,
-      "airdnaId": "3yd-SFMLSCA-425088645"
+      "daysOnMarket": 126
     },
     {
       "address": "1000 Franklin Street unit: 305 305, San Francisco, CA 94109",
@@ -315,8 +183,7 @@
       "revenue": 58200,
       "occupancy": 86,
       "adr": 185,
-      "dom": 423,
-      "airdnaId": "3yd-SFMLSCA-425005439"
+      "daysOnMarket": 425
     },
     {
       "address": "1111 Compass Ln Unit: 105 Foster City, CA 94404",
@@ -329,8 +196,7 @@
       "revenue": 75300,
       "occupancy": 72,
       "adr": 287,
-      "dom": 9,
-      "airdnaId": "3yd-CCAORCA-41125343"
+      "daysOnMarket": 11
     },
     {
       "address": "320 Peninsula Ave unit: 107 107, San Mateo, CA 94401",
@@ -343,8 +209,7 @@
       "revenue": 51400,
       "occupancy": 83,
       "adr": 170,
-      "dom": 61,
-      "airdnaId": "3yd-BAEORCA-41121374"
+      "daysOnMarket": 63
     },
     {
       "address": "4 Beach Ave Dillon Beach, CA 94929",
@@ -357,8 +222,7 @@
       "revenue": 74200,
       "occupancy": 49,
       "adr": 416,
-      "dom": 17,
-      "airdnaId": "3yd-BMLSCA-41125958"
+      "daysOnMarket": 19
     },
     {
       "address": "1 Cape Breton Court Pacifica, CA 94044",
@@ -371,8 +235,7 @@
       "revenue": 105200,
       "occupancy": 69,
       "adr": 418,
-      "dom": 293,
-      "airdnaId": "3yd-SFMLSCA-425081694"
+      "daysOnMarket": 295
     }
   ]
 }
