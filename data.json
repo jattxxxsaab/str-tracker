@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-03-23T16:00:00Z",
+  "lastUpdated": "2026-03-24T16:00:00Z",
   "market": "San Francisco",
-  "totalProperties": 89,
+  "totalProperties": 88,
   "properties": [
     {
       "address": "19 Blair Terrace San Francisco, CA 94107",
@@ -14,7 +14,7 @@
       "revenue": 82900,
       "occupancy": 92,
       "adr": 246,
-      "daysOnMarket": 378
+      "daysOnMarket": 379
     },
     {
       "address": "155 Headlands Ct Sausalito, CA 94965",
@@ -27,7 +27,7 @@
       "revenue": 101000,
       "occupancy": 83,
       "adr": 333,
-      "daysOnMarket": 76
+      "daysOnMarket": 77
     },
     {
       "address": "134 Albatross Court San Francisco, CA 94124",
@@ -40,7 +40,7 @@
       "revenue": 85200,
       "occupancy": 55,
       "adr": 427,
-      "daysOnMarket": 340
+      "daysOnMarket": 341
     },
     {
       "address": "1220 La Playa Street unit: 208 208, San Francisco, CA 94122",
@@ -53,7 +53,7 @@
       "revenue": 62100,
       "occupancy": 81,
       "adr": 209,
-      "daysOnMarket": 381
+      "daysOnMarket": 382
     },
     {
       "address": "5007 Palmetto Avenue unit: 37 37, Pacifica, CA 94044",
@@ -66,7 +66,7 @@
       "revenue": 77200,
       "occupancy": 81,
       "adr": 261,
-      "daysOnMarket": 136
+      "daysOnMarket": 137
     },
     {
       "address": "1119 Hanover St Daly City, CA 94014",
@@ -79,7 +79,7 @@
       "revenue": 122600,
       "occupancy": 66,
       "adr": 509,
-      "daysOnMarket": 69
+      "daysOnMarket": 70
     },
     {
       "address": "189 Kent Rd Pacifica, CA 94044",
@@ -105,7 +105,7 @@
       "revenue": 66900,
       "occupancy": 85,
       "adr": 215,
-      "daysOnMarket": 287
+      "daysOnMarket": 288
     },
     {
       "address": "765 Market Street unit: 27D 27D, San Francisco, CA 94103",
@@ -118,7 +118,7 @@
       "revenue": 326400,
       "occupancy": 95,
       "adr": 944,
-      "daysOnMarket": 265
+      "daysOnMarket": 266
     },
     {
       "address": "340 Vallejo Drive unit: 71 71, Millbrae, CA 94030",
@@ -131,7 +131,7 @@
       "revenue": 84100,
       "occupancy": 73,
       "adr": 315,
-      "daysOnMarket": 248
+      "daysOnMarket": 249
     },
     {
       "address": "66 Cleary Court unit: 508 508, San Francisco, CA 94109",
@@ -144,7 +144,7 @@
       "revenue": 93000,
       "occupancy": 79,
       "adr": 323,
-      "daysOnMarket": 159
+      "daysOnMarket": 160
     },
     {
       "address": "59 San Jose Ave Pacifica, CA 94044",
@@ -157,7 +157,7 @@
       "revenue": 99100,
       "occupancy": 78,
       "adr": 349,
-      "daysOnMarket": 95
+      "daysOnMarket": 96
     },
     {
       "address": "679 Mangels Avenue San Francisco, CA 94127",
@@ -170,7 +170,7 @@
       "revenue": 82700,
       "occupancy": 71,
       "adr": 321,
-      "daysOnMarket": 126
+      "daysOnMarket": 127
     },
     {
       "address": "1000 Franklin Street unit: 305 305, San Francisco, CA 94109",
@@ -183,7 +183,7 @@
       "revenue": 58200,
       "occupancy": 86,
       "adr": 185,
-      "daysOnMarket": 425
+      "daysOnMarket": 426
     },
     {
       "address": "1111 Compass Ln Unit: 105 Foster City, CA 94404",
@@ -196,7 +196,7 @@
       "revenue": 75300,
       "occupancy": 72,
       "adr": 287,
-      "daysOnMarket": 11
+      "daysOnMarket": 12
     },
     {
       "address": "320 Peninsula Ave unit: 107 107, San Mateo, CA 94401",
@@ -209,7 +209,7 @@
       "revenue": 51400,
       "occupancy": 83,
       "adr": 170,
-      "daysOnMarket": 63
+      "daysOnMarket": 64
     },
     {
       "address": "4 Beach Ave Dillon Beach, CA 94929",
@@ -222,7 +222,7 @@
       "revenue": 74200,
       "occupancy": 49,
       "adr": 416,
-      "daysOnMarket": 19
+      "daysOnMarket": 20
     },
     {
       "address": "1 Cape Breton Court Pacifica, CA 94044",
@@ -235,7 +235,7 @@
       "revenue": 105200,
       "occupancy": 69,
       "adr": 418,
-      "daysOnMarket": 295
+      "daysOnMarket": 296
     }
   ]
 }
