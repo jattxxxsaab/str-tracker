@@ -58,22 +58,11 @@
         <div class="subtitle">Short-term rental for-sale properties across target markets — powered by AirDNA</div>
     </div>
     <div class="tab-bar">
-        <a class="tab active" onclick="switchTab('sf',this)">🌉 San Francisco</a>
-        <a class="tab" onclick="switchTab('cabin',this)">🏔️ Sierra Cabin</a>
+        <a class="tab active" onclick="switchTab('cabin',this)">🏔️ Sierra Cabin</a>
         <a class="tab" onclick="switchTab('sc',this)">🏖️ Santa Cruz</a>
     </div>
 
-    <div id="panel-sf" class="market-panel active">
-        <div class="criteria-banner"><strong>Search Criteria:</strong> SF market · 2+ beds · 2+ baths · ≤$750K · Target: South Beach, Alamo Square, Noe Valley, Marina, Daly City, Mission Bay</div>
-        <div class="stats-bar" id="stats-sf"></div>
-        <div class="filters">
-            <label>Sort:</label><select id="sort-sf" onchange="renderTable('sf')"><option value="yield-desc">Yield ↓</option><option value="price-asc">Price ↑</option><option value="price-desc">Price ↓</option><option value="revenue-desc">Revenue ↓</option><option value="occupancy-desc">Occupancy ↓</option></select>
-            <label>Max Price:</label><select id="maxprice-sf" onchange="renderTable('sf')"><option value="750000">$750K</option><option value="1000000">$1M</option><option value="99999999">All</option></select>
-        </div>
-        <div class="table-container"><table><thead><tr><th>Address</th><th>Area</th><th>Score</th><th>Price</th><th>Bed</th><th>Bath</th><th>Sqft</th><th>Yield</th><th>Revenue</th><th>Occ</th><th>ADR</th><th>DOM</th></tr></thead><tbody id="tbody-sf"></tbody></table><div class="no-results" id="noresults-sf" style="display:none">No matching properties</div></div>
-    </div>
-
-    <div id="panel-cabin" class="market-panel">
+    <div id="panel-cabin" class="market-panel active">
         <div class="criteria-banner green"><strong>Search Criteria:</strong> Northern Sierra Mtns · ≤$600K · Long Barn, Pinecrest, Sonora, Tuolumne, Groveland, Mariposa</div>
         <div class="stats-bar" id="stats-cabin"></div>
         <div class="filters">
@@ -94,8 +83,8 @@
     </div>
 
     <script>
-    var DATA = { sf: null, cabin: null, sc: null };
-    var FILES = { sf: 'data.json', cabin: 'cabin-data.json', sc: 'santacruz-data.json' };
+    var DATA = { cabin: null, sc: null };
+    var FILES = { cabin: 'cabin-data.json', sc: 'santacruz-data.json' };
 
     function zillow(addr) {
         return 'https://www.zillow.com/homes/' + addr.replace(/[#,\.]/g, '').replace(/\s+/g, '-') + '_rb/';
@@ -190,7 +179,7 @@
     }
 
     async function loadAll() {
-        var keys = ['sf', 'cabin', 'sc'];
+        var keys = ['cabin', 'sc'];
         for (var i = 0; i < keys.length; i++) {
             var k = keys[i];
             try {
