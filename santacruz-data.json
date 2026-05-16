@@ -1,0 +1,46 @@
+{
+  "lastUpdated": "2026-05-16T07:07:20.497440-07:00",
+  "market": {
+    "name": "Santa Cruz",
+    "airdnaId": "airdna-197",
+    "totalProperties": 2,
+    "filteredCount": 2
+  },
+  "criteria": {
+    "area": "Capitola / Aptos / Santa Cruz / Watsonville / Felton / Scotts Valley",
+    "type": "Coastal STR",
+    "maxPrice": 1200000
+  },
+  "properties": [
+    {
+      "address": "11120 Lake Blvd, Felton CA 95018",
+      "area": "Felton",
+      "price": 595000,
+      "beds": 2,
+      "baths": 2,
+      "sqft": 1200,
+      "yield": 17.7,
+      "revenue": 105300,
+      "occupancy": 72,
+      "adr": 401,
+      "dom": null,
+      "airdnaId": "3yd-MLSLCA-ML81990152",
+      "areaScore": 68
+    },
+    {
+      "address": "28 Kadderly Lane, Watsonville CA 95076",
+      "area": "Watsonville",
+      "price": 656000,
+      "beds": 3,
+      "baths": 2,
+      "sqft": 1094,
+      "yield": 9.4,
+      "revenue": 61600,
+      "occupancy": 42,
+      "adr": 402,
+      "dom": 145,
+      "airdnaId": "3yd-CDARCA-219140297",
+      "areaScore": 50
+    }
+  ]
+}
