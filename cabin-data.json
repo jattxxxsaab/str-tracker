@@ -1,0 +1,106 @@
+{
+  "lastUpdated": "2026-05-16T07:07:20.497440-07:00",
+  "market": {
+    "name": "Northern Sierra Mtns",
+    "submarket": "Yosemite / Long Barn / Pinecrest",
+    "totalProperties": 6,
+    "filteredCount": 6
+  },
+  "criteria": {
+    "maxPrice": 600000,
+    "area": "Groveland / Mariposa / Tuolumne / Long Barn / Pinecrest / Sonora / Buck Meadows / El Portal",
+    "type": "Cabin / Mountain STR"
+  },
+  "properties": [
+    {
+      "address": "20872 McKinley Way, Groveland CA 95321",
+      "area": "Groveland",
+      "price": 336000,
+      "beds": 2,
+      "baths": 2,
+      "sqft": 1533,
+      "yield": 15.5,
+      "revenue": 52200,
+      "occupancy": 51,
+      "adr": 279,
+      "dom": 127,
+      "airdnaId": "3yd-BMLSCA-41120536",
+      "areaScore": 50
+    },
+    {
+      "address": "12087 Breckenridge Rd, Groveland CA 95321",
+      "area": "Groveland",
+      "price": 320000,
+      "beds": 2,
+      "baths": 3,
+      "sqft": 1988,
+      "yield": 15,
+      "revenue": 47900,
+      "occupancy": 62,
+      "adr": 213,
+      "dom": 163,
+      "airdnaId": "3yd-BMLSCA-41118725",
+      "areaScore": 50
+    },
+    {
+      "address": "5840 Evergreen Lane, Mariposa CA 95338",
+      "area": "Mariposa",
+      "price": 419000,
+      "beds": 3,
+      "baths": 2,
+      "sqft": 1560,
+      "yield": 14.4,
+      "revenue": 60400,
+      "occupancy": 46,
+      "adr": 357,
+      "dom": 85,
+      "airdnaId": "3yd-FARCA-644204",
+      "areaScore": 60
+    },
+    {
+      "address": "2811 E Westfall, Mariposa CA 95338",
+      "area": "Mariposa",
+      "price": 489900,
+      "beds": 3,
+      "baths": 2,
+      "sqft": 1768,
+      "yield": 13.7,
+      "revenue": 67000,
+      "occupancy": 64,
+      "adr": 287,
+      "dom": 105,
+      "airdnaId": "3yd-FARCA-643075",
+      "areaScore": 60
+    },
+    {
+      "address": "5909 Evergreen, Mariposa CA 95338",
+      "area": "Mariposa",
+      "price": 450000,
+      "beds": 3,
+      "baths": 2,
+      "sqft": 1629,
+      "yield": 13.7,
+      "revenue": 61400,
+      "occupancy": 48,
+      "adr": 349,
+      "dom": 124,
+      "airdnaId": "3yd-FARCA-642181",
+      "areaScore": 60
+    },
+    {
+      "address": "5621 Ponderosa Court, Mariposa CA 95338",
+      "area": "Mariposa",
+      "price": 589000,
+      "beds": 3,
+      "baths": 2,
+      "sqft": 2390,
+      "yield": 11.9,
+      "revenue": 70000,
+      "occupancy": 62,
+      "adr": 310,
+      "dom": 104,
+      "airdnaId": "3yd-FARCA-643164",
+      "areaScore": 60
+    }
+  ]
+}
